@@ -3,6 +3,9 @@
 ## 🚀 Overview
 This project is an AI-powered code analyzer that explains code, detects errors, and suggests improvements.
 
+## 🌐 Live Demo
+👉 [Click here to use the app](https://bugezcodeanalyzer.streamlit.app/)
+
 ## 🔥 Features
 - Code explanation
 - Time complexity analysis
